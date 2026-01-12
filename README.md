@@ -2,8 +2,6 @@
 
 Personal knowledge tooling • Networking • Development
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JOUW_USERNAME&show_icons=true)
-
 ## Platforms
 ![Python](https://img.shields.io/badge/Python%203-3776AB?style=flat&logo=python&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
